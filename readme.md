@@ -1,1 +1,1 @@
-#KiwiPass, a Open Source password manager
+# KiwiPass, a Open Source password manager
