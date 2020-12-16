@@ -1,0 +1,22 @@
+{
+  "name": "kiwipass",
+  "version": "1.0.0",
+  "description": "A Open Source Password Manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiwiscripter/KiwiPass.git"
+  },
+  "keywords": [
+    "KiwiPass"
+  ],
+  "author": "KiwiScripter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kiwiscripter/KiwiPass/issues"
+  },
+  "homepage": "https://github.com/kiwiscripter/KiwiPass#readme"
+}
